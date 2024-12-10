@@ -17,11 +17,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/revati-ahirasang-a5121b195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/revati-ahirasang-a5121b195/" height="30" width="40" /></a>
 
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="revatiahirasang56@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="revatiahirasang56@gmail.com" height="30" width="40" />
-  </a>
 </p>
 
 </p>
